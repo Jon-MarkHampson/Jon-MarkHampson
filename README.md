@@ -5,7 +5,7 @@
 - Founder of [Apollo View](https://apolloviewmodular.com), where I design and build **Eurorack modules** with a focus on quality, functionality, and creativity.
 
 ## 🌱 Currently Learning
-- Studying AI software engineering at **Masterschool***
+- Studying AI software engineering at **Masterschool**
 - **C++** for audio plugin development using the JUCE framework.
 - Exploring **Digital Signal Processing (DSP)** and **AI/ML** applications for audio innovation.
 - Continuously improving my skills in **Python** and other coding languages.
