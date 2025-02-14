@@ -22,6 +22,11 @@
 - **Website**: [Apollo View](https://apolloviewmodular.com)
 - **GitHub**: [Jon-MarkHampson](https://github.com/Jon-MarkHampson)
 
+[![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)](#) [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#) [![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white)](#)
+[![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)](#) [![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#) ![Static Badge](https://img.shields.io/badge/JUCE-white?logo=juce)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
+
 <!---
 Jon-MarkHampson/Jon-MarkHampson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
