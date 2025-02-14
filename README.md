@@ -4,7 +4,7 @@
 # Hi, I’m Jon-Mark Hampson
 
 ## 👀 About Me
-- Passionate about audio electronics, **modular synthesis**, and audio production.
+- Passionate about audio electronics, **modular synthesis**, and muisc production.
 - Skilled in developing audio digital synthesizers on embedded systems, working with analog electronics for synthesizers, and creating audio plugins for music production.
 - Committed to continuous learning and innovation in audio technology.
 - Founder of **[Apollo View](https://apolloviewmodular.com)**, where I design and build **Eurorack modules** with a focus on quality, functionality, and creativity.
