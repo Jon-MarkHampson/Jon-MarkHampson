@@ -11,7 +11,7 @@
 
 ## 🌱 Currently Learning
 - Pursuing AI software engineering at **[Masterschool](https://de.masterschool.com/en/)**.
-- Advancing in **C++** for audio plugin development using the JUCE framework.
+- Advancing in **C++** for audio plugin development using the **[JUCE](https://juce.com/)** framework.
 - Exploring **Digital Signal Processing (DSP)** and **AI/ML** applications to drive audio innovation.
 - Continuously honing skills in **Python** and full-stack development at **Masterschool**.
 
