@@ -1,4 +1,4 @@
-![Picture of Jon-Mark Hampson](https://cdn.discordapp.com/attachments/1339902346192486403/1339922650675548244/GitHub_Banner.png?ex=67b07bb6&is=67af2a36&hm=9e880e7392fd7316f2fadaaa741147dc4a664383025261eb5552f395b7c0d9da&)
+![Picture of Jon-Mark Hampson](https://cdn.discordapp.com/attachments/1339902346192486403/1339947938801258537/GitHub_Banner.png?ex=67b09343&is=67af41c3&hm=3cf5986bae2a5803f476945e4352d3afd2167bd75f99e389ddef58c721f3a204&)
 
 
 # Hi, I’m Jon-Mark Hampson
