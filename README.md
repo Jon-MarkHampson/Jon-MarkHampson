@@ -1,4 +1,4 @@
-![Picture of Jon-Mark Hampson](https://cdn.discordapp.com/attachments/1339902346192486403/1339950529241022504/GitHub_Banner.png?ex=67b095ad&is=67af442d&hm=76b03f19ebaf16a769552b22e7c71b2b444cf4b710e893fd677dcfc5bfc077e4&)  
+![Picture of Jon-Mark Hampson](https://res.cloudinary.com/apollo-view-modular/image/upload/v1743156008/Jon-Mark/GitHub_Banner_wkokvq.png)  
 
 # **Jon-Mark Hampson**  
 🚀 **Innovator | Engineer | Musician | Creator**  
