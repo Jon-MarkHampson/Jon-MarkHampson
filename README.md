@@ -1,4 +1,4 @@
-![Picture of Jon-Mark Hampson](https://res.cloudinary.com/apollo-view-modular/image/upload/v1743156008/Jon-Mark/GitHub_Banner_wkokvq.png)  
+![Picture of Jon-Mark Hampson](https://res.cloudinary.com/apollo-view-modular/image/upload/v1747389197/Jon-Mark/Github-Banner_2_1200_x_400_t9m74e.png)  
 
 # **Jon-Mark Hampson**  
 🚀 **Innovator | Engineer | Musician | Creator**  
