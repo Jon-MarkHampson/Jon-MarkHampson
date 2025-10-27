@@ -1,47 +1,29 @@
 ![Picture of Jon-Mark Hampson](https://res.cloudinary.com/apollo-view-modular/image/upload/v1747389197/Jon-Mark/Github-Banner_2_1200_x_400_t9m74e.png)  
 
-# **Jon-Mark Hampson**  
-🚀 **Innovator | Engineer | Musician | Creator**  
+# Jon-Mark Hampson
 
-### 💡 **Bridging technology and creativity.**  
-I thrive at the intersection of **engineering and artistry**, where **electronics, DSP, and AI** shape the future of sound. Every project is an opportunity to **innovate, refine, and push boundaries**—in both technology and myself. **Still evolving.**  
+I'm a junior AI engineer with a background in audio technology and embedded systems. Currently studying AI Software Engineering at Masterschool, focusing on Python, audio DSP, and LLM integration.
 
----
+## Background
 
-## 🔊 **What I Do:**  
-🎛️ **Modular Synthesis & Audio Electronics** – Designing and building high-quality Eurorack modules under **[Apollo View](https://apolloviewmodular.com)**.  
-🎚️ **Audio Software Development** – Creating **C++/JUCE-based plugins** and DSP tools for music production.  
-🧠 **AI & Machine Learning in Audio** – Exploring how **AI can revolutionize sound processing and synthesis**.  
+Before moving into software, I spent over a decade working with medical and audio technologies - everything from live surgical guidance systems to designing my own line of DSP-powered Eurorack modules under [Apollo View](https://apolloviewmodular.com). That work gave me solid experience with real-world systems, hardware/software integration, and solving complex technical problems.
 
-## 🔬 **Technical Focus:**  
-🔩 **Embedded Systems & Analog Electronics** – Hardware-based synthesis and circuit design.  
-🖥️ **Audio Plugin Development** – DSP programming and real-time audio processing.  
-🤖 **AI & Machine Learning for Audio** – Investigating new frontiers in **intelligent sound design**.  
+## Current Focus
 
----
+Right now I'm building AI-powered tools for creative applications, particularly around audio and synthesis. I'm working with:
 
-## 🌱 **Currently Learning:**  
-🎓 **AI Software Engineering at [Masterschool](https://de.masterschool.com/en/)** – Specializing in Python & ML.  
-🎛️ **Advanced C++** – Developing audio plugins with the **[JUCE](https://juce.com/)** framework.  
-📡 **DSP & AI for Audio** – Exploring signal processing & ML-driven innovation.  
-🌍 **Full-stack development** – Expanding my technical skillset.  
+- Audio plugin development (C++/JUCE)
+- Machine learning for audio processing
+- Backend systems with LLMs
+- DSP and embedded systems
 
----
+I'm especially interested in projects where AI meets creative technology - tools that are functional, accessible, and built to last.
 
-## 💼 **Career Aspirations:**  
-🔹 **Bridging creativity & technology** to develop innovative audio solutions.  
-🔹 Applying expertise in **electronics, DSP & AI** to create **cutting-edge tools** for musicians & audio professionals.  
-🔹 **Building a portfolio** of impactful projects showcasing technical depth & creative vision.  
+## Contact
 
----
-
-## 📫 **How to Reach Me:**  
-📧 **Email**: [jonmarkhampson@me.com](mailto:jonmarkhampson@me.com)  
-🌐 **Website**: [Apollo View](https://apolloviewmodular.com)  
-🐙 **GitHub**: [Jon-MarkHampson](https://github.com/Jon-MarkHampson)  
-🔗 **LinkedIn**: [Jon-MarkHampson](https://www.linkedin.com/in/jon-mark-hampson/)  
-
----
+📧 jonmarkhampson@me.com  
+🌐 [apolloviewmodular.com](https://apolloviewmodular.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/jon-mark-hampson/)
 
 ## 🛠️ **Tech & Tools I Use:**  
 
