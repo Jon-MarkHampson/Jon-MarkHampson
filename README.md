@@ -1,4 +1,4 @@
-![Picture of Jon-Mark Hampson](https://res.cloudinary.com/apollo-view-modular/image/upload/v1747389197/Jon-Mark/Github-Banner_2_1200_x_400_t9m74e.png)  
+![Picture of Jon-Mark Hampson](https://res.cloudinary.com/apollo-view-modular/image/upload/v1761576883/Jon-Mark/Github-Banner_2_-_small_ozjff6.png)  
 
 # Jon-Mark Hampson
 
