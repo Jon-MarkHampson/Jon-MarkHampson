@@ -13,7 +13,7 @@ Before moving into software, I spent over a decade working with medical and audi
 Right now I'm building AI-powered tools for creative applications, particularly around audio and synthesis. I'm working with:
 
 - Audio plugin development (C++/JUCE)
-- Machine learning for audio processing
+- Multiagentic workflows
 - Backend systems with LLMs
 - DSP and embedded systems
 
